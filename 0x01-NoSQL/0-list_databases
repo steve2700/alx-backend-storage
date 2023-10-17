@@ -1,0 +1,2 @@
+// Script that list all the databases in mongo
+show dbs
